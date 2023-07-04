@@ -896,6 +896,8 @@ display: none;
     border: 2px solid rgba(44, 44, 44, 0.2);
     top: -15px;
     right: -9px;
+    -webkit-user-select: none;
+    user-select: none;
 }
 /* gio hang hover */
 .header__search-selec:hover .header__search-option{
